@@ -63,6 +63,7 @@ Interactive dashboards include:
 - **Tree Map:** Contractor name vs. bike count  
 - **Line Chart:** Yearly updates (2022–2025)  
 - **Map Chart:** Geographic distribution of stations  
+<img width="1377" height="797" alt="Screenshot 2026-06-05 115117 (1)" src="https://github.com/user-attachments/assets/84849cc3-0b04-4df6-8f25-38385d405563" />
 
 ---
 
